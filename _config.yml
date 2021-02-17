@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://nickfritsch.github.io/"
+url: "https://nickfritsch.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
